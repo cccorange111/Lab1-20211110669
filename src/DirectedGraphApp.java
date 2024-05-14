@@ -20,7 +20,9 @@ public class DirectedGraphApp {
             System.out.println("5. Random walk");
             System.out.println("0. Exit");
 
+
             System.out.print("Your choice is: ");
+
 
 
             int choice = scanner.nextInt();
