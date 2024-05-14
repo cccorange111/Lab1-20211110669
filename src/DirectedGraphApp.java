@@ -19,7 +19,7 @@ public class DirectedGraphApp {
             System.out.println("4. Calculate shortest path");
             System.out.println("5. Random walk");
             System.out.println("0. Exit");
-            System.out.print("Your choice: ");
+            System.out.print("Your choice is: ");
 
             int choice = scanner.nextInt();
             scanner.nextLine();  // consume the remaining newline
