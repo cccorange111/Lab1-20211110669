@@ -55,7 +55,7 @@ public class DirectedGraphApp {
         }
         scanner.close();
     }
-
+    //创建图
     private static void buildGraph(String filePath) throws FileNotFoundException {
         Scanner fileScanner = new Scanner(new File(filePath));
         String previousWord = null;
