@@ -21,7 +21,7 @@ public class DirectedGraphApp {
             System.out.println("0. Exit");
 
 
-            System.out.print("Your choice is: ");
+            System.out.print("Your choice is : ");
 
 
 
